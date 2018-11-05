@@ -1,3 +1,8 @@
+---
+title: "First Post"
+date: 2018-11-05
+---
+
 # My First Post
 
 ## My first subheading
