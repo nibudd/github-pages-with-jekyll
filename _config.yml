@@ -1,15 +1,14 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: My First Github Pages Site
+author: nibudd
+email: nibudd@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is the description of my site. It uses great adjectives
+  and has laudable diction.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+twitter_username: nibudd
+github_username:  nibudd
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: jekyll-theme-minimal
+theme: minima
